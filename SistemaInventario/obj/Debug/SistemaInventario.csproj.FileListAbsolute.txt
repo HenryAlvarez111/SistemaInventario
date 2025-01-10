@@ -1,0 +1,13 @@
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\bin\Debug\SistemaInventario.exe.config
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\bin\Debug\SistemaInventario.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\bin\Debug\SistemaInventario.pdb
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.csproj.AssemblyReference.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.Presentacion.Inventario.CUInventario.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.MenuPrincipal.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.Presentacion.Productos.CUProductos.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.Presentacion.Proveedores.CUProveedores.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.Properties.Resources.resources
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.csproj.GenerateResource.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.csproj.CoreCompileInputs.cache
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.exe
+C:\Users\Alex2\Documents\Trabajos\Programacion\C#\Henry\SistemaInventario\SistemaInventario\obj\Debug\SistemaInventario.pdb

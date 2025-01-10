@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6391601-5BF6-4E1D-93DF-54D97B88D229}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\henry\\sistemainventario\\sistemainventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E6391601-5BF6-4E1D-93DF-54D97B88D229}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E6391601-5BF6-4E1D-93DF-54D97B88D229}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\henry\\sistemainventario\\sistemainventario\\presentacion\\inventario\\cuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6391601-5BF6-4E1D-93DF-54D97B88D229}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\presentacion\\inventario\\cuinventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6391601-5BF6-4E1D-93DF-54D97B88D229}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\henry\\sistemainventario\\sistemainventario\\presentacion\\proveedores\\cuproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6391601-5BF6-4E1D-93DF-54D97B88D229}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\presentacion\\proveedores\\cuproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6391601-5BF6-4E1D-93DF-54D97B88D229}|SistemaInventario\\SistemaInventario.csproj|c:\\users\\alex2\\documents\\trabajos\\programacion\\c#\\henry\\sistemainventario\\sistemainventario\\presentacion\\proveedores\\cuproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6391601-5BF6-4E1D-93DF-54D97B88D229}|SistemaInventario\\SistemaInventario.csproj|solutionrelative:sistemainventario\\presentacion\\proveedores\\cuproveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\SistemaInventario\\Form1.cs",
-              "RelativeDocumentMoniker": "SistemaInventario\\Form1.cs",
-              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\SistemaInventario\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "SistemaInventario\\Form1.cs [Dise\u00F1o]",
+              "Title": "CUInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\SistemaInventario\\Presentacion\\Inventario\\CUInventario.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Presentacion\\Inventario\\CUInventario.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\SistemaInventario\\Presentacion\\Inventario\\CUInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaInventario\\Presentacion\\Inventario\\CUInventario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-10T17:38:42.63Z",
+              "WhenOpened": "2025-01-10T23:41:09.299Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CUProveedores.cs",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\SistemaInventario\\Presentacion\\Proveedores\\CUProveedores.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Presentacion\\Proveedores\\CUProveedores.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\SistemaInventario\\Presentacion\\Proveedores\\CUProveedores.cs",
+              "RelativeToolTip": "SistemaInventario\\Presentacion\\Proveedores\\CUProveedores.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAmwFwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:38:31.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CUProveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\SistemaInventario\\Presentacion\\Proveedores\\CUProveedores.cs",
+              "RelativeDocumentMoniker": "SistemaInventario\\Presentacion\\Proveedores\\CUProveedores.cs",
+              "ToolTip": "C:\\Users\\Alex2\\Documents\\Trabajos\\Programacion\\C#\\Henry\\SistemaInventario\\SistemaInventario\\Presentacion\\Proveedores\\CUProveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaInventario\\Presentacion\\Proveedores\\CUProveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T23:38:29.855Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]
