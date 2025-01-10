@@ -46,11 +46,36 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Datos\Conexion.cs" />
+    <Compile Include="Datos\dto_Inventario.cs" />
+    <Compile Include="Datos\dto_Productos.cs" />
+    <Compile Include="Datos\dto_Proveedor.cs" />
+    <Compile Include="Logica\cls_Inventario.cs" />
+    <Compile Include="Logica\cls_Productos.cs" />
+    <Compile Include="Logica\cls_Proveedor.cs" />
+    <Compile Include="Presentacion\Inventario\CUInventario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Inventario\CUInventario.Designer.cs">
+      <DependentUpon>CUInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\MenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Presentacion\MenuPrincipal.Designer.cs">
+      <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Productos\CUProductos.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Productos\CUProductos.Designer.cs">
+      <DependentUpon>CUProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\Proveedores\CUProveedores.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Presentacion\Proveedores\CUProveedores.Designer.cs">
+      <DependentUpon>CUProveedores.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -76,5 +101,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
